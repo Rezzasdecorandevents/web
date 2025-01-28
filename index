@@ -1,0 +1,301 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Rezza's Decoration and Events
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+ </head>
+ <body class="font-roboto bg-gray-100">
+  <header class="bg-pink-600 text-white p-4">
+   <div class="container mx-auto flex justify-between items-center">
+    <h1 class="text-2xl font-bold">
+     Rezza's Decoration and Events
+    </h1>
+    <nav>
+     <ul class="flex space-x-4">
+      <li>
+       <a class="hover:underline" href="#services">
+        Services
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#terms">
+        Terms and Conditions
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#contact">
+        Contact
+       </a>
+      </li>
+     </ul>
+    </nav>
+   </div>
+  </header>
+  <section class="relative" id="hero">
+   <img alt="Colorful balloon decorations for various events" class="w-full h-96 object-cover" src="https://placehold.co/1920x600"/>
+   <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
+    <div class="text-center">
+     <h2 class="text-white text-4xl font-bold mb-4">
+      Making Your Events Unforgettable
+     </h2>
+    </div>
+   </div>
+  </section>
+  <section class="py-12" id="services">
+   <div class="container mx-auto text-center">
+    <h2 class="text-3xl font-bold mb-8">
+     Our Services
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+     <div class="bg-white p-6 rounded-lg shadow-lg">
+      <img alt="Birthday party balloon decorations with colorful balloons and a festive setup" class="w-full h-40 object-cover mb-4" src="https://i.imgur.com/RuHCK37.jpg"/>
+      <h3 class="text-xl font-bold mb-2">
+       Birthday Parties
+      </h3>
+      <p>
+       Make your birthday celebrations vibrant and memorable with our custom balloon decorations.
+      </p>
+     </div>
+     <div class="bg-white p-6 rounded-lg shadow-lg">
+      <img alt="Christening event balloon decorations with elegant white and pastel balloons" class="w-full h-40 object-cover mb-4" src="https://i.imgur.com/heyoOpn.jpg"/>
+      <h3 class="text-xl font-bold mb-2">
+       Christening
+      </h3>
+      <p>
+       Celebrate this special occasion with beautiful and elegant balloon decorations.
+      </p>
+     </div>
+     <div class="bg-white p-6 rounded-lg shadow-lg">
+      <img alt="Debut event balloon decorations with a sophisticated and stylish setup" class="w-full h-40 object-cover mb-4" src="https://i.imgur.com/3wksAUo.jpg"/>
+      <h3 class="text-xl font-bold mb-2">
+       Debut
+      </h3>
+      <p>
+       Make your debut unforgettable with our stunning balloon setups.
+      </p>
+     </div>
+     <div class="bg-white p-6 rounded-lg shadow-lg">
+      <img alt="Corporate event balloon decorations with a professional and sleek design" class="w-full h-40 object-cover mb-4" src="https://i.imgur.com/cILVzl7.jpg"/>
+      <h3 class="text-xl font-bold mb-2">
+       Corporate Events
+      </h3>
+      <p>
+       Enhance your corporate events with professional and creative balloon decorations.
+      </p>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="py-12 bg-pink-100" id="terms">
+   <div class="container mx-auto">
+    <h2 class="text-3xl font-bold mb-8 text-center">
+     Terms and Conditions
+    </h2>
+    <div class="bg-white p-6 rounded-lg shadow-lg">
+     <h3 class="text-xl font-bold mb-4">
+      Terms and Conditions for Balloon Decoration Services
+     </h3>
+     <p>
+      <strong>
+       Effective Date:
+      </strong>
+      January 25, 2025
+     </p>
+     <ol class="list-decimal list-inside space-y-4 mt-4">
+      <li>
+       <strong>
+        Introduction
+       </strong>
+       <p>
+        Welcome to Rezza's Decoration and Events ("we," "us," or "our"). These Terms and Conditions govern your use of our balloon decoration services ("Services"). By booking our Services, you agree to these Terms and Conditions.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Services Offered
+       </strong>
+       <p>
+        We provide balloon decoration services for various events, including but not limited to:
+       </p>
+       <ul class="list-disc list-inside ml-4">
+        <li>
+         Birthday parties
+        </li>
+        <li>
+         Corporate events
+        </li>
+        <li>
+         Baby showers
+        </li>
+        <li>
+         Anniversaries
+        </li>
+        <li>
+         Christening
+        </li>
+       </ul>
+      </li>
+      <li>
+       <strong>
+        Booking and Payment
+       </strong>
+       <p>
+        <strong>
+         Booking:
+        </strong>
+        To secure our Services, a booking request must be submitted via our page or email. A confirmation will be sent upon acceptance of your request.
+       </p>
+       <p>
+        <strong>
+         Deposit:
+        </strong>
+        A fixed deposit fee of 300 pesos is required at the time of booking to reserve your date and services.
+       </p>
+       <p>
+        <strong>
+         Final Payment:
+        </strong>
+        The full payment is made after the decorations are set up at the event.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Cancellation and Rescheduling
+       </strong>
+       <p>
+        <strong>
+         Cancellation by Client:
+        </strong>
+        If you wish to cancel your booking, please notify us in writing at least 5 days before the event. The deposit is non-refundable. If cancellation occurs less than 5 days before the event, the full payment will be required.
+       </p>
+       <p>
+        <strong>
+         Rescheduling:
+        </strong>
+        If you need to reschedule your event, please contact us as soon as possible. We will do our best to accommodate your new date, subject to availability.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Client Responsibilities
+       </strong>
+       <p>
+        The client is responsible for providing accurate event details, including date, time, location, and any specific decoration requests.
+       </p>
+       <p>
+        The client must ensure that the event venue is accessible and that any necessary permits or permissions are obtained.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Liability
+       </strong>
+       <p>
+        We are not liable for any damages or injuries that occur during the event due to the use of our balloon decorations. Details of the selected decoration will be provided with specific inclusions. If you wish to add more preferences, it will be subject to an additional rate.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Intellectual Property
+       </strong>
+       <p>
+        All designs, images, and content related to our Services are the intellectual property of Rezza's Decoration and Events. Unauthorized use or reproduction is prohibited.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Privacy Policy
+       </strong>
+       <p>
+        We respect your privacy and are committed to protecting your personal information. Please refer to our Privacy Policy [insert link or reference] for details on how we collect, use, and protect your information.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Governing Law
+       </strong>
+       <p>
+        These Terms and Conditions shall be governed by and construed in accordance with the laws of the Philippines.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Amendments
+       </strong>
+       <p>
+        We reserve the right to amend these Terms and Conditions at any time. Any changes will be posted on our page, and your continued use of our Services constitutes acceptance of the updated Terms and Conditions.
+       </p>
+      </li>
+      <li>
+       <strong>
+        Contact Information
+       </strong>
+       <p>
+        For any questions or concerns regarding these Terms and Conditions, please contact us at:
+       </p>
+       <p>
+        Rezza's Decoration and Events
+       </p>
+       <p>
+        [Your Address]
+       </p>
+       <p>
+        <a href="mailto:rezzadecorandevents@gmail.com">
+         rezzadecorandevents@gmail.com
+        </a>
+       </p>
+       <p>
+        <a href="tel:+639462963829">
+         +63 946 296 3829
+        </a>
+       </p>
+      </li>
+     </ol>
+    </div>
+   </div>
+  </section>
+  <footer class="bg-pink-600 text-white py-8" id="contact">
+   <div class="container mx-auto text-center">
+    <h2 class="text-2xl font-bold mb-4">
+     Contact Us
+    </h2>
+    <p>
+     Rezza's Decoration and Events
+    </p>
+    <p>
+     [Your Address]
+    </p>
+    <p>
+     <a href="mailto:rezzadecorandevents@gmail.com">
+      rezzadecorandevents@gmail.com
+     </a>
+    </p>
+    <p>
+     <a href="tel:+639462963829">
+      +63 946 296 3829
+     </a>
+    </p>
+    <div class="mt-4">
+     <a class="text-white mx-2" href="#">
+      <i class="fab fa-facebook-f">
+      </i>
+     </a>
+     <a class="text-white mx-2" href="#">
+      <i class="fab fa-twitter">
+      </i>
+     </a>
+     <a class="text-white mx-2" href="#">
+      <i class="fab fa-instagram">
+      </i>
+     </a>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>
